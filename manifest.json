@@ -1,0 +1,15 @@
+{
+    "files": {
+        "README.md": "fe0164817c785f95875948ee4b9091326177a39cc47f5f078c3bff3b38905b6a",
+        "index.js": "202b6cdc999a2d7a86830245f4cda457045b571fe5e0c4863692ac0f8a798654",
+        "module.json": "19b272c4f6d711395b1739fb2f3778102bdf7664821c897e4a55deb8820000bb"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "S_CREATURE_CHANGE_HP": 6,
+        "S_INSTANT_MOVE": 3,
+        "S_LOAD_TOPO": 3,
+        "S_LOGIN": 13,
+        "S_PLAYER_STAT_UPDATE": 12
+    }
+}
