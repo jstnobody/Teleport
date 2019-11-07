@@ -169,7 +169,7 @@ module.exports = function TP(mod) {
 		return false;
 	});
 
-	mod.hook('S_LOGIN', dispatch.majorPatchVersion >= 86 ? 14 : 13, (event) => {
+	mod.hook('S_LOGIN', mod.majorPatchVersion >= 86 ? 14 : 13, (event) => {
 		gameId = event.gameId;
 		isCastanic = Math.floor((event.templateId - 10101) / 200) === 3;
 	});
