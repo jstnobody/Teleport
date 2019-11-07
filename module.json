@@ -1,8 +1,8 @@
 {
     "disableAutoUpdate": false,
     "name": "Teleport",
-    "version": "09.05.2019",
-    "author": "Nekonekoo",
+    "version": "7.11.2019",
+    "author": "clumsey",
     "description": "Teleport Script",
-    "servers": ["https://raw.githubusercontent.com/PatrickSantoZZ/Teleport/master/"]
+    "servers": ["https://raw.githubusercontent.com/jstnobody/Teleport/master/"]
 }
